@@ -1,4 +1,4 @@
-from settings import USER_AGENTS
+from .settings import USER_AGENTS
 import random
 
 
